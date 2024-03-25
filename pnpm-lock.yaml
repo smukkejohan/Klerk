@@ -15,8 +15,8 @@ dependencies:
     specifier: 12.3.1
     version: 12.3.1
   stripe:
-    specifier: ^13.11.0
-    version: 13.11.0
+    specifier: ^14.22.0
+    version: 14.22.0
 
 devDependencies:
   concurrently:
@@ -681,8 +681,8 @@ packages:
       ansi-regex: 5.0.1
     dev: true
 
-  /stripe@13.11.0:
-    resolution: {integrity: sha512-yPxVJxUzP1QHhHeFnYjJl48QwDS1+5befcL7ju7+t+i88D5r0rbsL+GkCCS6zgcU+TiV5bF9eMGcKyJfLf8BZQ==}
+  /stripe@14.22.0:
+    resolution: {integrity: sha512-Pj8SAdTNjMq42UnWzBTTy8KMQ8qbQoVemPHbw3x+rHvwq1Psg9UFPT58j54F5os/SCgUAOZSEMcUedvzIDuqvw==}
     engines: {node: '>=12.*'}
     dependencies:
       '@types/node': 20.11.20
